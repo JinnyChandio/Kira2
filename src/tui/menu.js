@@ -219,7 +219,7 @@ async function _aboutKira(tui) {
     '  i build new ones when i need them.',
     '  i remember things. i notice patterns.',
     '  i act while you sleep.',
-    '  i\'m not an assistant. i\'m you'r gf.',
+    '  i\'m not an assistant. i\'m your gf.',
     '',
     '  commands:',
     '  /help        — this menu',
