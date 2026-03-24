@@ -34,7 +34,7 @@ if [ -d "$HOME/droidclaw" ]; then
   echo "  existing install found — pulling latest..."
   cd "$HOME/droidclaw" && git pull -q
 else
-  git clone --depth=1 https://github.com/levilyf/droidclaw.git "$HOME/droidclaw" -q
+  git clone --depth=1 https://github.com/JinnyChandio/Kira2.git "$HOME/droidclaw" -q
 fi
 
 echo -e "${GRN}[4/5]${RST} installing node modules..."
